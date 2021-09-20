@@ -1,6 +1,6 @@
 # Context-based Image Explanations for Deep Neural Networks
 
-This repository contains MATLAB implementation of context based image explanations for DNNs. We then generate explanations based on feature importance. We present visual and text-based explanations as: 
+This repository contains MATLAB implementation of context based image explanations for DNNs. We implement partial masking on segmented components to identify the contextual importance of each segment in scene classification tasks. We then generate explanations based on feature importance. We present visual and text-based explanations as: 
 
 * Saliency map presents the pertinent components with a descriptive textual justification.
 
